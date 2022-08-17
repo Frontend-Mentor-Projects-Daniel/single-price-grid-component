@@ -91,6 +91,12 @@ select {
   border: 0 !important;
 }
 
+.header--primary {
+}
+
+.header--secondary {
+}
+
 /**------------------- 
 **     GENERAL
 --------------------*/
@@ -107,4 +113,52 @@ body {
 
   width: 100vw;
   min-height: 100vh;
+}
+
+.btn {
+}
+
+/**------------------- 
+**    PRICE CARD
+--------------------*/
+.price-card {
+}
+
+/**------------------- 
+**  GUARANTEE BLOCK   
+--------------------*/
+.price-card__guarantee {
+}
+
+.price-card__promise {
+}
+
+.price-card__incentive {
+}
+
+/**--------------------- 
+** SUBSCRIPTION BLOCK
+----------------------*/
+.price-card__subscription {
+}
+
+.price-card__price {
+}
+
+.price-card__price > span {
+}
+
+.price-card__full-access {
+}
+
+.btn-signup {
+}
+
+/**------------------- 
+**   WHY US BLOCK
+--------------------*/
+.price-card__why-us {
+}
+
+.price-card__why-us__text {
 }
